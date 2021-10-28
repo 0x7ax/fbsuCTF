@@ -1,0 +1,20 @@
+Difficulty: Easy
+
+Description: Attached is a picture with content. Can you determine the flag?
+
+4
+7
+8
+1
+3
+6
+2
+5
+
+*See attachement*
+
+Flag format: fbsuCTF{md5hash}
+
+-----*Dont show*------
+
+Correct flag: fbsuCTF{b76865239e9ab20ac4b60d599e5bdd16}
